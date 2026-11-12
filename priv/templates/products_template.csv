@@ -1,0 +1,3 @@
+sku,name,barcode,price,cost,vat_code,weighed,unit,reorder_level,opening_stock
+MZ-2KG,Maize Flour 2kg,6161100000001|6161100000002,190.00,150.00,A,,each,20,100
+TOM-KG,Tomatoes (per kg),2000001,120.00,80.00,A,yes,kg,10,50.5
